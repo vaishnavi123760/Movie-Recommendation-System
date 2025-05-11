@@ -3,7 +3,7 @@
 ## 🌟 Overview  
 **Next Up** is a movie recommendation system that offers **generalized** suggestions based on popularity, genre, and year, and also provides **personalized** recommendations using the user's selected genres and casts. Additionally, it recommends similar movies based on user-selected titles using **content-based filtering** and **Annoy (Approximate Nearest Neighbors)**.
 
-🔗 GitHub Repository: [Movie-Recommendation-System](https://github.com/rishika-1802/Movie-Recommendation-System-.git)
+🔗 GitHub Repository: [Movie-Recommendation-System](https://github.com/Kayal63/Movie-Recommendation-System-.git)
 
 ---
 
